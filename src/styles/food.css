@@ -1,0 +1,31 @@
+.pp{
+    box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+    border-radius: 20px;
+}
+.pp h3{
+    color: rgb(128, 120, 120);
+}
+.pp h4{ 
+    color:rgb(149, 141, 141);
+}
+.searchbar {
+   background-color: black;
+   display: flex;
+
+}
+.searchbar input{
+    margin-left: 7px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: rgb(197, 233, 33);
+}
+.search {
+    margin-left: 600px;
+   
+}
+.search p{
+    font-size: xx-large;
+    position: relative;
+    top:7px;
+    color:antiquewhite
+}
